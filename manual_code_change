@@ -1,0 +1,31 @@
+first_subject = "marks of the first subject"
+second_subject = "marks of the second subject"
+third_subject = "mark of the third subject"
+fourth_subject = "mark of the fourth subject"
+fifth_subject = "mark of the fifth subject"
+sixth_subject = "mark of the sixth subject"
+
+total_marks = first_subject + second_subject + third_subject + fourth_subject + fifth_subject + sixth_subject
+
+calculate_the_percentage = total_marks / total mark of all the six subject * 100
+
+print(calculate_the_percentage)
+
+
+
+
+for example;
+
+
+first_subject = 90
+second_subject = 80
+third_subject = 95
+fourth_subject = 85
+fifth_subject = 87
+sixth_subject = 91
+
+total_marks = first_subject + second_subject + third_subject + fourth_subject + fifth_subject + sixth_subject
+
+calculate_the_percentage = total_marks / 600 * 100
+
+print(calculate_the_percentage)
